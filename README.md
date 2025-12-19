@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Noel J Young!
+# 👋 Hi there, I'm Noel Young!
 
 <div align="center">
   
