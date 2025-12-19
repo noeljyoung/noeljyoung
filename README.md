@@ -53,7 +53,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noeljyoung&theme=redical&hide_border=true)](https://github.com/noeljyoung)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noeljyoung&theme=radical&hide_border=true)](https://github.com/noeljyoung)
 
 ## 💼 What I'm Currently Working On
 
