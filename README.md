@@ -31,9 +31,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-
-## 📈 Activity Graph
-
 ## 💼 What I'm Currently Working On
 
 - 🔭 Building exciting projects and exploring new technologies
