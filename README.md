@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. I enjoy tackling challenging problems and continuously learning new technologies.
+I'm a passionate developer who loves building innovative solutions. I enjoy tackling challenging problems and continuously learning new technologies.
 
 ## 🛠️ Skills & Technologies
 
